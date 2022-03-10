@@ -4,3 +4,7 @@ using Matematik;
 
 DortIslem dortIslem = new DortIslem();
 dortIslem.Topla(2,3);
+int sayi;
+
+Console.ReadLine();
+
