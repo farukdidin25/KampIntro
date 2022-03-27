@@ -19,6 +19,9 @@ namespace OOP3
             throw new NotImplementedException();
         }
 
+
+
+
         public void KrediOnBilgilendirmesiYap(List<IKrediManager> krediler)
         {
             foreach (var kredi in krediler)
